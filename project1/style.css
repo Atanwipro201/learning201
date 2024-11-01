@@ -1,10 +1,7 @@
 body{
-    background-image: url(https://images.pexels.com/photos/1005417/pexels-photo-1005417.jpeg)
+    background-image: url(https://img.freepik.com/premium-photo/grainy-gradient-background-red-white-blue-colors-with-soft-faded-watercolor-border-texture_927344-24167.jpg)
 }
 
 .blur{
-    filter: blur(8px);
-}
-.unblur{
-    filter: blur(0px);
+    backdrop-filter: blur(8px);
 }
