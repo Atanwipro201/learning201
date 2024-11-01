@@ -1,3 +1,7 @@
 body{
     background-image: url(https://images.pexels.com/photos/1005417/pexels-photo-1005417.jpeg)
 }
+
+.blur{
+    filter: blur(8px);
+}
