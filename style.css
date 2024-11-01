@@ -1,8 +1,12 @@
 body{
-    color: white;
-    background-image: url(https://img.freepik.com/premium-photo/grainy-gradient-background-red-white-blue-colors-with-soft-faded-watercolor-border-texture_927344-24167.jpg)
+    text-align:center;
+    color:white;
+    background-image: url(https://images.pexels.com/photos/956981/milky-way-starry-sky-night-sky-star-956981.jpeg?cs=srgb&dl=pexels-felixmittermeier-956981.jpg&fm=jpg)
 }
 
 .blur{
-    backdrop-filter: blur(8px);
+    backdrop-filter: blur(10px);
+}
+.round25{
+    border-radius: 25px;
 }
